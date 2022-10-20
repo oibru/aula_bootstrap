@@ -3,11 +3,11 @@ body{
     font: 20px arial, sans-serif;
 }
 .navbar{
-    background-color: #c5a5b0;
+    background-color: #e2d0d6;
 }
 
-#quem-somos{
-    background-color: #976d7c;
+#quem_somos{
+    background-color: #e0b8c6;
     color: white;
 }
 
@@ -16,7 +16,7 @@ body{
     padding-top: 10px;
 }
 
-#loja{
+.loja{
     background-color: #c6879d;
     
 }
